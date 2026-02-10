@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5382A1&height=180&section=header&text=Java%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Java%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&customColorList=4,5,8,15,20" alt="Header"/>
   
   <div style="margin: 20px 0;">
     <a href="https://t.me/AgwYtrU">
