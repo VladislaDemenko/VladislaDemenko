@@ -2,12 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&gradient=4B0082-9400D3" alt="Header"/>
   
   <div style="margin: 20px 0;">
-    <a href="https://t.me/AgwYtrU">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20" alt="Telegram">
-    </a>
-    <a href="https://vk.com/agwytru">
-      <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&logoWidth=20" alt="VK">
-    </a>
+    
   </div>
 </div>
 
